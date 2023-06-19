@@ -14,6 +14,7 @@ def contato():
 @app.route('/quemsomos')
 def quemsomos():
     return render_template("quemsomos.html")
+kjdkçjfs
 
 
 
